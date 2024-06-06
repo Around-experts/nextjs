@@ -11,6 +11,14 @@
 <span>
 </div>
 
+<div align="center">
+    <img src="demo/src/assets/dashboard.jpg" width="745" height="486" alt="next-js" />
+    <img src="demo/src/assets/user.jpg" width="745" height="486" alt="next-js" />
+    <img src="demo/src/assets/employee.jpg" width="745" height="486" alt="next-js" />
+    <img src="demo/src/assets/profile.jpg" width="745" height="486" alt="next-js" />
+    <img src="demo/src/assets/board.jpg" width="745" height="486" alt="next-js" />
+</div>
+
 ## Overview
 
 This is a starter template using the following stack:
