@@ -10,12 +10,16 @@
 <a href="https://nextjs-five-nu-83.vercel.app/">View Demo</a>
 <span>
 </div>
-
+<br />
 <div align="center">
     <img src="public/dashboard.jpg" alt="next-js" />
+    <br />
     <img src="public/user.jpg" alt="next-js" />
+    <br />
     <img src="public/employee.jpg" alt="next-js" />
+    <br />
     <img src="public/profile.jpg" alt="next-js" />
+    <br />
     <img src="public/board.jpg" alt="next-js" />
 </div>
 
