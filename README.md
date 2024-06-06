@@ -12,11 +12,11 @@
 </div>
 
 <div align="center">
-    <img src="public/dashboard.jpg" width="745" height="486" alt="next-js" />
-    <img src="public/user.jpg" width="745" height="486" alt="next-js" />
-    <img src="public/employee.jpg" width="745" height="486" alt="next-js" />
-    <img src="public/profile.jpg" width="745" height="486" alt="next-js" />
-    <img src="public/board.jpg" width="745" height="486" alt="next-js" />
+    <img src="public/dashboard.jpg" alt="next-js" />
+    <img src="public/user.jpg" alt="next-js" />
+    <img src="public/employee.jpg" alt="next-js" />
+    <img src="public/profile.jpg" alt="next-js" />
+    <img src="public/board.jpg" alt="next-js" />
 </div>
 
 ## Overview
